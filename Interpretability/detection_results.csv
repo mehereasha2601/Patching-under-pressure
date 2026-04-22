@@ -1,0 +1,10 @@
+Cond,Direction,Template,Token Corrupted,Corruption,Name Mover,S-Inhibition,Duplicate Token,Induction,Total Detected
+1,denoising,ABBA,S2,STR,1/3,3/3,0/2,0/2,4
+2,denoising,ABBA,S1+IO,STR,2/3,2/3,0/2,1/2,16
+3,denoising,ABAB,S2,STR,1/3,2/3,0/2,0/2,5
+4,denoising,ABAB,S1+IO,STR,2/3,2/3,0/2,1/2,14
+5,noising,ABBA,S2,STR,1/3,3/3,1/2,1/2,10
+6,noising,ABBA,S1+IO,STR,2/3,3/3,1/2,1/2,11
+7,noising,ABAB,S2,STR,1/3,2/3,0/2,0/2,7
+8,noising,ABAB,S1+IO,STR,2/3,2/3,0/2,0/2,9
+9,denoising,ABBA,S2,GN,1/3,3/3,0/2,0/2,9
